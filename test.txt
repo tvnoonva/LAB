@@ -1,0 +1,64 @@
+============test case 10000==============
+Quick sort 진행 시간 0.01500 sec
+Vladimir 알고리즘 sort 진행 시간 0.01200 sec, n값은 17
+Vladimir 알고리즘 sort 진행 시간 0.01400 sec, n값은 33
+Vladimir 알고리즘 sort 진행 시간 0.01800 sec, n값은 65
+Vladimir 알고리즘 sort 진행 시간 0.02600 sec, n값은 129
+Vladimir 알고리즘 sort 진행 시간 0.04500 sec, n값은 257
+Vladimir 알고리즘 sort 진행 시간 0.07200 sec, n값은 513
+============test case 100000==============
+Quick sort 진행 시간 0.19000 sec
+Vladimir 알고리즘 sort 진행 시간 0.17300 sec, n값은 17
+Vladimir 알고리즘 sort 진행 시간 0.18498 sec, n값은 33
+Vladimir 알고리즘 sort 진행 시간 0.21703 sec, n값은 65
+Vladimir 알고리즘 sort 진행 시간 0.33202 sec, n값은 129
+Vladimir 알고리즘 sort 진행 시간 0.44697 sec, n값은 257
+Vladimir 알고리즘 sort 진행 시간 0.78203 sec, n값은 513
+============test case 200000==============
+Quick sort 진행 시간 0.42297 sec
+Vladimir 알고리즘 sort 진행 시간 0.37000 sec, n값은 17
+Vladimir 알고리즘 sort 진행 시간 0.39303 sec, n값은 33
+Vladimir 알고리즘 sort 진행 시간 0.47000 sec, n값은 65
+Vladimir 알고리즘 sort 진행 시간 0.64004 sec, n값은 129
+Vladimir 알고리즘 sort 진행 시간 0.93803 sec, n값은 257
+Vladimir 알고리즘 sort 진행 시간 1.72303 sec, n값은 513
+============test case 400000==============
+Quick sort 진행 시간 0.96200 sec
+Vladimir 알고리즘 sort 진행 시간 0.82100 sec, n값은 17
+Vladimir 알고리즘 sort 진행 시간 0.92500 sec, n값은 33
+Vladimir 알고리즘 sort 진행 시간 1.12100 sec, n값은 65
+Vladimir 알고리즘 sort 진행 시간 1.44803 sec, n값은 129
+Vladimir 알고리즘 sort 진행 시간 2.31403 sec, n값은 257
+Vladimir 알고리즘 sort 진행 시간 3.83597 sec, n값은 513
+============test case 800000==============
+Quick sort 진행 시간 2.31400 sec
+Vladimir 알고리즘 sort 진행 시간 1.85704 sec, n값은 17
+Vladimir 알고리즘 sort 진행 시간 2.09903 sec, n값은 33
+Vladimir 알고리즘 sort 진행 시간 2.36200 sec, n값은 65
+Vladimir 알고리즘 sort 진행 시간 3.05700 sec, n값은 129
+Vladimir 알고리즘 sort 진행 시간 4.54400 sec, n값은 257
+Vladimir 알고리즘 sort 진행 시간 7.50902 sec, n값은 513
+============test case 1600000==============
+Quick sort 진행 시간 5.02603 sec
+Vladimir 알고리즘 sort 진행 시간 4.04100 sec, n값은 17
+Vladimir 알고리즘 sort 진행 시간 4.36900 sec, n값은 33
+Vladimir 알고리즘 sort 진행 시간 4.98803 sec, n값은 65
+Vladimir 알고리즘 sort 진행 시간 6.44797 sec, n값은 129
+Vladimir 알고리즘 sort 진행 시간 10.01700 sec, n값은 257
+Vladimir 알고리즘 sort 진행 시간 15.60803 sec, n값은 513
+============test case 3200000==============
+Quick sort 진행 시간 11.12500 sec
+Vladimir 알고리즘 sort 진행 시간 9.29003 sec, n값은 17
+Vladimir 알고리즘 sort 진행 시간 9.84597 sec, n값은 33
+Vladimir 알고리즘 sort 진행 시간 11.11103 sec, n값은 65
+Vladimir 알고리즘 sort 진행 시간 14.27097 sec, n값은 129
+Vladimir 알고리즘 sort 진행 시간 20.55493 sec, n값은 257
+Vladimir 알고리즘 sort 진행 시간 34.04403 sec, n값은 513
+============test case 6400000==============
+Quick sort 진행 시간 25.94300 sec
+Vladimir 알고리즘 sort 진행 시간 18.97397 sec, n값은 17
+Vladimir 알고리즘 sort 진행 시간 20.23097 sec, n값은 33
+Vladimir 알고리즘 sort 진행 시간 22.98303 sec, n값은 65
+Vladimir 알고리즘 sort 진행 시간 28.56103 sec, n값은 129
+Vladimir 알고리즘 sort 진행 시간 40.66900 sec, n값은 257
+Vladimir 알고리즘 sort 진행 시간 64.27400 sec, n값은 513
